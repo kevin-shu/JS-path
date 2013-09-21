@@ -23,6 +23,7 @@ Node
 ----
 
 ### Basic
+* [Express](http://expressjs.com/)
 * https://github.com/dtao/lazy.js (類似underscore，效能更好，而且寫的很漂亮，可以參考原始碼)
 
 ### ORM
@@ -34,6 +35,9 @@ Node
 
 ### Controll flow
 * https://github.com/caolan/async
+
+### Scaling
+* [axon](https://github.com/visionmedia/axon)
 
 ### Hadoop
 * Mapreduce - [Timothy](https://github.com/forward/timothy)
